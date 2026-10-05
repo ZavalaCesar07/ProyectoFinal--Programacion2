@@ -1,1 +1,4 @@
-<Solution />
+<Solution>
+  <Project Path="Autoparts.entity/Autoparts.entity.csproj" />
+  <Project Path="Autoparts.View/Autoparts.View.csproj" />
+</Solution>
